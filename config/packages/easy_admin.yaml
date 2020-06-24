@@ -1,0 +1,6 @@
+easy_admin:
+    entities:
+        - App\Entity\Student
+        - App\Entity\Grade
+        - App\Entity\Subject
+        - App\Entity\User
